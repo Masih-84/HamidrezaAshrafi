@@ -30,8 +30,7 @@ _March 2023 – Current_
 #### ● Sales manager and product marketer
 #### ● Tireless
 
-،اث 
 
-The background color is #0969DA for light mode
+#0969DA
 
 
