@@ -16,7 +16,7 @@ _March 2023 – Current_
 #### I started different photography skills in college classrooms with black and white photography and analog cameras. Throughout the period, the photos were printed by Enlarger in the darkroom. 
 #### *Study in Technical and Vocational Training Organization*
 2012
-####•	Surveying (mapping engineer)
+#### •	Surveying (mapping engineer)
 #### * Working in PVC door and window production factory*
 2015-2018
 ### *Skills*
@@ -31,6 +31,6 @@ _March 2023 – Current_
 #### ● Tireless
 
 
-#0969DA
+'#0969DA'
 
 
