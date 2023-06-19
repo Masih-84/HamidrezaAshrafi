@@ -30,7 +30,7 @@ _March 2023 – Current_
 #### ● Sales manager and product marketer
 #### ● Tireless
 
-html_content = '''
+html_content =
 <!DOCTYPE html>
 <html>
 <head>
@@ -50,7 +50,7 @@ html_content = '''
     <img src="path-to-your-image.jpg" alt="Description of the image">
 </body>
 </html>
-'''
+
 
 '#0969DA'
 
