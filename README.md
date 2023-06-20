@@ -1,6 +1,5 @@
-'''html
-  // #0969DA 
-'''
+Inline-style:
+![alt text](C:\Users\Masih\Desktop\Photos\Masih.jpg)
 # Hamidreza Ashrafi
 ## ***Data Scientist***
 ### *Education*
