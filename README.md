@@ -1,5 +1,4 @@
-Inline-style:
-![alt text](C:\Users\Masih\Desktop\Photos\Masih.jpg)
+![Hamidreza Ashrafi](https://media.licdn.com/dms/image/D4E35AQGVKnDy3WbGVw/profile-framedphoto-shrink_200_200/0/1680602455488?e=1687863600&v=beta&t=jp0m9hKU-0r7T5kpLfF8XF47ueuwhRyvzA4CbfOl-FY))
 # Hamidreza Ashrafi
 ## ***Data Scientist***
 ### *Education*
