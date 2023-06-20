@@ -1,4 +1,4 @@
-# Hamidreza Ashrafi
+'#0969DA' # Hamidreza Ashrafi
 ## ***Data Scientist***
 ### *Education*
 #### *•	Shahrekord University (Handicraft)*
@@ -29,28 +29,6 @@ _March 2023 – Current_
 #### ● Project Management 
 #### ● Sales manager and product marketer
 #### ● Tireless
-
-html_content =
-<!DOCTYPE html>
-<html>
-<head>
-    <title>HamidrezaAshrafi</title>
-    <style>
-        body {
-            background: blue;
-        }
-        h1 {
-            font-weight: bold;
-            font-style: italic;
-        }
-    </style>
-</head>
-<body>
-    <h1>Hyperion bootcamps</h1>
-    <img src="path-to-your-image.jpg" alt="Description of the image">
-</body>
-</html>
-
 
 '#0969DA'
 
