@@ -1,7 +1,6 @@
 '''html
   // #0969DA 
 '''
-# Hamidreza Ashrafi #
 # Hamidreza Ashrafi
 ## ***Data Scientist***
 ### *Education*
@@ -34,6 +33,6 @@ _March 2023 – Current_
 #### ● Sales manager and product marketer
 #### ● Tireless
 
-
+[linkedIn](https://www.linkedin.com/in/hamidreza-ashrafi84/)
 
 
